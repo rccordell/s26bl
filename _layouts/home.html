@@ -1,0 +1,195 @@
+---
+layout: default
+---
+
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu.html %}
+    {% if site.title %}
+      <h1>
+        {{ site.title }}
+      </h1>
+    {% endif %}
+    {% if site.title %}
+      <h2>
+        {{ site.description }}
+      </h2>
+    {% endif %}
+  </header>
+{% endif %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Page {{ paginator.page }}
+    {% else %}
+      <a href="{{site.baseurl}}/schedule/toc" class="plain-link">Table of Contents</a>
+    {% endif %}
+  </h1>
+
+<ul class="post-list">
+		<li><a href="{{site.baseurl}}/pages/syllabus" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Colophon</h1>
+	    </div>
+			<span class="post-link__date">
+				Syllabus
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/pages/assignments" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Preface</h1>
+	    </div>
+			<span class="post-link__date">
+				Assignments
+	    </span>
+	  </a></li>
+	  	  </a></li>
+		<li><a href="{{site.baseurl}}/pages/assessment" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Foreword</h1>
+	    </div>
+			<span class="post-link__date">
+				Assessment
+	    </span>
+	  </a></li>
+	</ul>
+
+<h2>Volume I: Substrate</h2>
+    
+  <ul class="post-list">
+		<li><a href="{{site.baseurl}}/schedule/01-media" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 1: Media</h1>
+	    </div>
+			<span class="post-link__date">
+				January 27
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/02-book" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 2: Book</h1>
+	    </div>
+			<span class="post-link__date">
+				February 3
+	    </span>
+	  </a></li>
+	  	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/03-page/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 3: Page</h1>
+	    </div>
+			<span class="post-link__date">
+				February 10
+	    </span>
+	  </a></li>
+	</ul>
+
+<h2>Volume II: Platform</h2>
+  <ul class="post-list">
+		<li><a href="{{site.baseurl}}/schedule/04-print/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 4: Print</h1>
+	    </div>
+			<span class="post-link__date">
+				February 17
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/05-information/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 5: Information</h1>
+	    </div>
+			<span class="post-link__date">
+				February 24
+	    </span>
+	  </a></li>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/06-infrastructure/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 6: Infrastructure</h1>
+	    </div>
+			<span class="post-link__date">
+				March 3
+	    </span>
+	  </a></li>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/07-reception/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 7: Reception</h1>
+	    </div>
+			<span class="post-link__date">
+				March 10
+	    </span>
+	  </a></li>
+	</ul>
+<h2>Volume III: Interface</h2>
+    <ul class="post-list">
+		<li><a href="{{site.baseurl}}/schedule/08-experiment/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 8: Experiment</h1>
+	    </div>
+			<span class="post-link__date">
+				March 24
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/09-memory/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 9: Memory</h1>
+	    </div>
+			<span class="post-link__date">
+				March 31
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/10-interactive/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 10: Interactive</h1>
+	    </div>
+			<span class="post-link__date">
+				April 7
+	    </span>
+	  </a></li>
+	</ul>
+<h2>Volume IV: Format</h2>
+    <ul class="post-list">
+		<li><a href="{{site.baseurl}}/schedule/11-data/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 11: Data</h1>
+	    </div>
+			<span class="post-link__date">
+				April 14
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/12-code/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 12: Code</h1>
+	    </div>
+			<span class="post-link__date">
+				April 21
+	    </span>
+	  </a></li>
+		<li><a href="{{site.baseurl}}/schedule/13-generative/" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Chapter 13: Generative</h1>
+	    </div>
+			<span class="post-link__date">
+				April 28
+	    </span>
+	  </a></li>
+	</ul>
+<h2>Afterword</h2>
+    <ul class="post-list">	
+		<li><a href="{{site.baseurl}}/pages/assignments" class="post-link">
+			<div class="post-link__heading">
+				<h1 class="post-link__title">Project Showcase</h1>
+	    </div>
+			<span class="post-link__date">
+				May 5
+	    </span>
+	  </a></li>
+	</ul>
+</main>
