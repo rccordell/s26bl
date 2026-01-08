@@ -19,6 +19,7 @@ layout: post
     + Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external website](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [resource via library](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 + Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external website](https://www.inverse.com/innovation/blinking-cursor-history)
++ Sonya Donaldson, "The Ephemeral Archive: Unstable Terrain in Times and Sites of Discord" (2021), [external website](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/b5c2c6f7-c1a2-4645-8cf7-9d5cc70aa019##ch02)
 + Ryan Cordell, "Material Cultures of the Digital" (2022), [external website](https://ryancordell.org/research/materialdigital/)
 + Klint Finley, "What We Can Learn from Vintage Computing" (2022), [external website](https://github.com/readme/featured/vintage-computing?mc_cid=72e109b22c)
 + Marcin Wichary and Mihai Parparita, "Frame of Preference: A History of Mac Settings, 1984-2004" (2025), [external resource](https://aresluna.org/frame-of-preference/)

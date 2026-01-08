@@ -65,7 +65,6 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 + Bethany Nowviskie, “Change Us, Too” (2019), [external website](http://nowviskie.org/2019/change-us-too/)
 + 
-+ Sonya Donaldson, "The Ephemeral Archive: Unstable Terrain in Times and Sites of Discord" (2021), [external website](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/b5c2c6f7-c1a2-4645-8cf7-9d5cc70aa019##ch02)
 
 
 
