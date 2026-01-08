@@ -7,7 +7,7 @@ title: Assignments & Assessment
 
 | **Major Assignment** | **Milestones** | **Due Date** | 
 | :------------ | :----------- | -----: |
-| —————————— | ———————————— | ———————————— |
+| —————————— | —————————— | —————————— |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | Continuous | Weekly |
 |  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Friday, March 13 |
 |   | All 5 complete | Friday, May 1 |
