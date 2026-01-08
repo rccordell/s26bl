@@ -7,7 +7,7 @@ title: Assignments & Assessment
 
 | **Major Assignment** | **Milestones** | **Due Date** | 
 | :------------ | :----------- | -----: |
-| —————————— | —————————— | —————————— |
+| —————————— | ————————— | ————————— |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | Continuous | Weekly |
 |  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Friday, March 13 |
 |   | All 5 complete | Friday, May 1 |
@@ -65,9 +65,7 @@ I do reserve the right to adjust grades as appropriate, if a student takes undue
 
 Students must initiate an incomplete request by **_contacting the instructor_. The instructor and student must agree on a due date for completion of coursework.** The student must fill out the Incomplete Form and get it signed by the student, the instructor, and the student's academic adviser.
 
-A request for an incomplete grade is most often granted to students encountering a medical emergency or other extraordinary circumstances beyond their control. Students must request an incomplete grade from the instructor. The instructor and student will agree on a due date for completion of coursework. The student must submit an Incomplete Form signed by the student, the instructor, and the student&#39;s academic advisor to the front office: [https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd](https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd)
-
-Please see the Student Code for full details: [http://studentcode.illinois.edu/article3/part1/3-104/](http://studentcode.illinois.edu/article3/part1/3-104/)
+A request for an incomplete grade is most often granted to students encountering a medical emergency or other extraordinary circumstances beyond their control. Students must request an incomplete grade from the instructor. The instructor and student will agree on a due date for completion of coursework. The student must submit [an Incomplete Form](https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd) signed by the student, the instructor, and the student's academic advisor to the front office. Please [see the Student Code](http://studentcode.illinois.edu/article3/part1/3-104/) for full details.
 
 ## Grade Evaluation Rubric
 
