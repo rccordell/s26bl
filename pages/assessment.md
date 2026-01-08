@@ -6,7 +6,7 @@ title: Assignments & Assessment
 ## Assignments
 
 | Assignment | Milestone | Due Date | 
-| :------- | :--------- | -----: |
+| :------------ | :----------- | -----: |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
 |  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 | Fri, March 13 |
 |   | All 5 complete | Fri, May 1 |
