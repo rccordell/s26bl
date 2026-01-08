@@ -4,24 +4,26 @@ permalink: /schedule/05-information/
 layout: post
 ---
 
-## February 24, 2025
+## February 16: Discussion
 
 ### Core
 
 + James Gleick, "Two Wordbooks" from _The Information: A History, A Theory, a Flood_ (2011), [resource via library](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=761460&site=ehost-live&scope=site&ebv=EK&ppid=Page-__-35)
-+ Ellen Cushman, "We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance" (2011), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/434807)
-+ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
++ Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external website](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
++ Sarah Bull, “Content Generation in the Age of Mechanical Reproduction” (2023), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11091850)
 + Ryan Cordell, "Viral Textuality" from _Going the Rounds: Virality in Nineteenth-Century American Newspapers_ (2023), [external website](https://manifold.umn.edu/projects/going-the-rounds)
 
 ### Penumbra
 
-+ Vannevar Bush, "As We May Think" (1945), [external website](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 + Ann Blair, "Information Management in Comparative Perspective" from _Too Much To Know: Managing Scholarly Information before the Modern Age_ (2010), [resource via library](https://www.jstor.org/stable/j.ctt1nptsm.7)
++ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from _Comparative Textual Media_ (2013), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Ellen Gruber Garvey, "'facts and FACTS': Abolitionists' Database Innovations" in _Raw Data is an Oxymoron_ (2013), [resource via library](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/book/6451327)
-+ Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades," from _Debates in the Digital Humanities 2016_ (2016), [external website](http://dhdebates.gc.cuny.edu/debates/text/82)
 + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/659831)
-+ Kate Ozment, "Rationale for Feminist Bibliography" (2020), [external website](https://www.jstor.org/stable/26954243?seq=1)
 + Linc Kesler, "Indigenous People and the Written Word" from _The Unfinished Book_ (2021), [external website](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-33)
++ Jillian M. Hess, "Anatomy of the Commonplace" in _How Romantics and Victorians Organized Information: Commonplace Books, Scrapbooks, and Albums_ (2022), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.1093/oso/9780192895318.003.0002)
++ Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
 
 
-### Book Lab: A Pressing Matter
+## February 20: Printing Lab
+
+_Lab Prep_: Our print labs will involve potential messes of several kinds, including ink, oils and solvents, and simple dirt. We do have protective gear such as aprons and gloves, but even so I would not recommend wearing your best linen suit for these two weeks' labs; please wear something that you won't mind getting dirty.

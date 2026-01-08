@@ -1,19 +1,33 @@
 ---
 layout: post
-title: Method of Assessment
+title: Assignments & Assessment
 ---
 
-## The Trouble with Grading
+## Assignments
 
-As you no doubt know, grading can be a contentious issue in college courses, particularly in writing- and discussion-based courses, where grades can seem arbitrary and contestable. Grading in school does not much resemble the way you will be evaluated in your lives or careers, where you will define many of your own goals and be measured by how responsibly and effectively you achieve them. For these reasons, [in my undergraduate classes](https://s19tot.ryancordell.org/assignments/) I have moved toward contract grading. To quote Cathy Davidson, a professor at CUNY from whom most of my ideas about contract grading are adapted:
+Your work in BookLab will unfold through these major assignments:
+
+| Assignment | Milestone | Due Date | 
+| :---- | :--------- | -----: |
+| [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
+|  [Book Reports](/pages/assignments/book-reports/) | Report #1 | Thursday, March 5|
+|  ——— | Report #2 | Thursday, April 16 |
+| [Final Book Project](/pages/assignments/book-project/) | Prompt | Wednesday, March 11 |
+| ———| Proposal | Wednesday, April 2 |
+| ——— | Prototype | Friday, April 17 |
+| ——— | Final Book | Monday, May 4 | 
+
+## Assessment
+
+Grading can be a contentious issue in college courses, particularly in writing- and discussion-based courses, where grades can seem arbitrary and contestable. Grading in school does not much resemble the way you will be evaluated in your lives or careers, where you will define many of your own goals and be measured by how responsibly and effectively you achieve them. For these reasons, in my undergraduate classes, I have moved toward contract grading. To quote Cathy Davidson, a professor at CUNY from whom most of my ideas about contract grading are adapted:
 
 > The advantage of contract grading is that you, the student, decide how much work you wish to do this semester; if you complete that work on time and satisfactorily, you will receive the grade for which you contracted. This means planning ahead, thinking about all of your obligations and responsibilities this semester and also determining what grade you want or need in this course. The advantage of contract grading to the professor is no whining, no special pleading, on the students part. If you complete the work you contracted for, you get the grade. Done. I respect the student who only needs a C, who has other obligations that preclude doing all of the requirements to earn an A in the course, and who contracts for the C and carries out the contract perfectly. (This is another one of those major life skills: taking responsibility for your own workflow.)
 
 In graduate courses, however, these issues are even more acute, as you professionalize away from away a system in which you are assigned letter grades and toward a system where you must take ownership of your own work, ensuring it meets the standards of professional performance, service, research, and writing. Your professors will give you feedback and guidance—and will at points decide whether your work is sufficient to move to the next stage—but your thesis, GA jobs, comprehensive exam papers, or dissertation chapters will likely not be given A's or B's. In your longer career, you will certainly not be given letter grades, but instead be evaluated in other ways, often with your own participation. 
 
-In addition, BookLab is an experimental course in which I want you to feel empowered to experiment and even sometimes to fail. I want to create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out as hoped. 
+In addition, BookLab is an experimental course in which I want you to feel empowered to experiment and even sometimes to fail. I want to create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out exactly as hoped. 
 
-## Consultative Grading
+### Consultative Grading
 
 Ultimately, the university will require me to assign a grade to your work this semester. In order to address the concerns outlined above and create space for experimentation, you will assess your own work in this class in dialogue with me, as mentor rather than judge. You will ultimately grade your own work based by assessing your effort and performance across the course assignments as they relate to the goals you set for yourself, your work to meet those goals, and your intellectual growth during the class.
 

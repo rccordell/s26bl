@@ -1,12 +1,10 @@
 ---
-title: "Chapter 8: Experiment"
-permalink: /schedule/08-experiment/
+title: "Chapter 7: Experiment"
+permalink: /schedule/07-experiment/
 layout: post
 ---
 
-## March 24, 2025
-
-☞ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker_
+## March 2, 2025: Discussion
 
 ### Core
 
@@ -22,4 +20,6 @@ layout: post
 + Beth Driscoll and Claire Squires, [“‘Oh Look, a Ferry’; or the Smell of Printed Books”](https://scholarlypublications.universiteitleiden.nl/access/item%3A2716479/view) (2018)
 + Lindsay Rose Russell, "Dictionary, Shaped: Artists' Books and Lexicography" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/775920)
 
-### Book Lab: Weird (Library) Science
+## March 6: Artist's Book Lab @ RBML
+
+☞ **On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker. If you've never visited RBML before, you'll need to [register for a reader account](https://armarium.library.illinois.edu/logon) beforehand. You will only be able to bring in your phone, paper (such as your commonplace book), and pencils. 
