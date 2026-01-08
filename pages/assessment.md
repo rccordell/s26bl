@@ -7,6 +7,7 @@ title: Assignments & Assessment
 
 Your work in BookLab will unfold through these major assignments:
 
+
 | Assignment | Milestone | Due Date | 
 | :---- | :--------- | -----: |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
