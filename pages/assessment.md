@@ -10,12 +10,12 @@ Your work in BookLab will unfold through these major assignments:
 | Assignment | Milestone | Due Date | 
 | :---- | :--------- | -----: |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
-|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Friday, March 13 |
-|  ——— | All 5 complete | Friday, May 1 |
-| [Final Book Project](/pages/assignments/book-project/) | Prompt | Wednesday, March 11 |
-| ———| Proposal | Wednesday, April 2 |
-| ——— | Prototype | Friday, April 17 |
-| ——— | Final Book | Monday, May 4 | 
+|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Fri, March 13 |
+|   | All 5 complete | Fri, May 1 |
+| [Final Book Project](/pages/assignments/book-project/) | Prompt | Wed, March 11 |
+| | Proposal | Wed, April 2 |
+| | Prototype | Fri, April 17 |
+|  | Final Book | Mon, May 4 | 
 
 ## Assessment
 
