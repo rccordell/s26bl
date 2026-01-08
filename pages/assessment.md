@@ -5,16 +5,17 @@ title: Assignments & Assessment
 
 ## Assignments
 
-| **Major Assignment** | ❦ | **Milestones** | ❦ | **Due Date** | 
-| :------------ |:---: | :-----------: |:---:| -----: |
-| [Commonplace Book](/pages/assignments/commonplace-book/) | | Continuous | | Weekly |
-|  [Lab Reports](/pages/assignments/lab-reports/) | | At least 3 complete | | Fri, March 13 |
-|   | | All 5 complete | | Fri, May 1 |
-| [Final Book Project](/pages/assignments/book-project/) | | Prompt | | Wed, March 11 |
-| | | Proposal | | Wed, April 2 |
-| | | Prototype | | Fri, April 17 |
-|  | | Final Book | | Mon, May 4 | 
-| Final Self Assessment | | | | May 12 |
+| **Major Assignment** | **Milestones** | **Due Date** | 
+| :------------ | :----------- | -----: |
+| —————————— | ———————————— | ———————————— |
+| [Commonplace Book](/pages/assignments/commonplace-book/) | Continuous | Weekly |
+|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Friday, March 13 |
+|   | All 5 complete | Friday, May 1 |
+| [Final Book Project](/pages/assignments/book-project/) | Prompt | Wednesday, March 11 |
+| | Proposal | Wednesday, April 2 |
+| | Prototype | Friday, April 17 |
+| | Final Book | Monday, May 4 | 
+| Final Self Assessment | | Tuesday, May 12 |
 
 
 ## Assessment
@@ -72,7 +73,7 @@ Please see the Student Code for full details: [http://studentcode.illinois.edu/a
 
 When you assess your work in IS583BL, I encourage you to take a holistic approach. The rubric below can help guide your evaluation, but I am also happy to chat about these expectations and your performance at any time.
 
-| Component | Exceeds Expectations | Meets Expectations | Below Expectations |
+| **Component** | **Exceeds Expectations** | **Meets Expectations** | **Below Expectations** |
 | :-- | :-----: | :-----: | :-----: | 
 | Attendance and Participation | Attends all meetings and activity participates in discussion and lab activities, drawing from assigned materials in specific and relevant ways. | Attends most meetings and participates in the majority of discussions. | Misses a number of meetings and only occasionally participates in discussion. |
 | Discussion Prep | Reads all core assignments and one penumbral assignment for each discussion section and is prepared with 3 well-developed questions or observations for each class | Reads the majority core assignments and usually one penumbral assignment for each discussion section and prepares 3 questions or observations for each class | Does not consistently read assigned materials and struggles to prepare discussion prep |
