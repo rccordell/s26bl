@@ -8,4 +8,4 @@ layout: post
 
 ## April 17: Book Project Work
 
-Book Prototypes DUE by end of class April 17
+Reminder: Book Prototypes DUE by end of class April 17.

@@ -12,43 +12,43 @@ Friday, January 23: Media
 
 Monday, January 26: Discussion
 
-Friday, January 30: Paper-Making Lab 
+Friday, January 30: Paper-Making Lab #1
 
 ## Chapter 3: Book
 
 Monday, February 2: Discussion
 
-Friday, February 6: Forms of the Book Lab @ RBML
+Friday, February 6: Forms of the Book Lab #2 @ RBML
 
 ## Chapter 4: Print
 
 Monday, February 9: Discussion
 
-Friday, February 13: Composition Lab
+Friday, February 13: Composition Lab #3
 
 ## Chapter 5: Information
 
 Monday, February 16: Discussion
 
-Friday, February 20: Printing Lab
+Friday, February 20: Printing Lab #4
 
 ## Chapter 6: Remediation
 
 Monday, February 23: Discussion
 
-Friday, February 27: Zines Lab
+Friday, February 27: Zines Lab #5
 
 ## Chapter 7: Experiment
 
 Monday, March 2: Discussion
 
-Friday, March 6: Artist's Books Lab @ RBML 
+Friday, March 6: Artist's Books Lab #6 @ RBML 
 
 ## Chapter 8: Interactive
 
 Monday, March 9: Discussion
 
-Friday, March 13 - Twine Lab 
+Friday, March 13 - Twine Lab #7
 _Note: Prof. Cordell AWAY; lab will be remote/asychronous_
 
 # SPRING BREAK
@@ -59,19 +59,19 @@ Monday, March 23: Discussion
 
 Wednesday, March 25: Proposals DUE
 
-Friday, March 27: Binding
+Friday, March 27: Binding Lab #8
 
 ## Chapter 10: Data
 
 Monday, March 30: Discussion
 
-Friday, April 3: Books as Data Lab
+Friday, April 3: Books as Data Lab #9
 
 ## Chapter 11: Memory
 
 Monday, April 6: Discussion
 
-Friday, April 10: Media Archeology Lab
+Friday, April 10: Media Archeology Lab #10
 
 ## Chapter 12: Interlude
 
@@ -83,7 +83,7 @@ Friday, April 17:  Book Project Work; Book Prototypes DUE
 
 Monday, April 20: Discussion
 
-Friday, April 24: Collaborative Print Lab
+Friday, April 24: Collaborative Print Lab #11
 
 ## Conclusion
 
