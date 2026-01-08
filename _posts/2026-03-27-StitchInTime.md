@@ -1,5 +1,5 @@
 ---
-title: "Lab 9: A Stitch in Time"
+title: "Book Binding Lab"
 author: Ryan Cordell
 category: lab
 layout: post

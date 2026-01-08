@@ -24,5 +24,3 @@ layout: post
 + Matthew G. Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external website](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
 
 ## March 27: Binding Lab
-
-[Additional resources and tutorials for the binding lab can be found here](https://s25bl.ryancordell.org/lab/2025/03/31/StitchInTime.html).
