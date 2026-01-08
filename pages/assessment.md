@@ -5,16 +5,16 @@ title: Assignments & Assessment
 
 ## Assignments
 
-| Assignment | Milestone | Due Date | 
-| :------------ | :----------- | -----: |
-| [Commonplace Book](/pages/assignments/commonplace-book/) |  | Weekly |
-|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 | Fri, March 13 |
-|   | All 5 complete | Fri, May 1 |
-| [Final Book Project](/pages/assignments/book-project/) | Prompt | Wed, March 11 |
-| | Proposal | Wed, April 2 |
-| | Prototype | Fri, April 17 |
-|  | Final Book | Mon, May 4 | 
-| Final Self Assessment | | May 12 |
+| Assignment | | Milestone | | Due Date | 
+| :------------ |--- | :----------- |---| -----: |
+| [Commonplace Book](/pages/assignments/commonplace-book/) | | | | Weekly |
+|  [Lab Reports](/pages/assignments/lab-reports/) | | At least 3 | | Fri, March 13 |
+|   | | All 5 complete | | Fri, May 1 |
+| [Final Book Project](/pages/assignments/book-project/) | | Prompt | | Wed, March 11 |
+| | | Proposal | | Wed, April 2 |
+| | | Prototype | | Fri, April 17 |
+|  | | Final Book | | Mon, May 4 | 
+| Final Self Assessment | | | | May 12 |
 
 
 ## Assessment
