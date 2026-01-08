@@ -8,7 +8,7 @@ title: Assignments & Assessment
 | Assignment | Milestone | Due Date | 
 | :------- | :--------- | -----: |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
-|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Fri, March 13 |
+|  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 | Fri, March 13 |
 |   | All 5 complete | Fri, May 1 |
 | [Final Book Project](/pages/assignments/book-project/) | Prompt | Wed, March 11 |
 | | Proposal | Wed, April 2 |
