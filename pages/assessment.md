@@ -11,8 +11,7 @@ title: Assignments & Assessment
 | [Commonplace Book](/pages/assignments/commonplace-book) | Continuous | Weekly |
 |  [Lab Reports](/pages/assignments/lab-reports) | At least 3 complete | Friday, March 13 |
 |   | All 5 complete | Friday, May 1 |
-| [Final Book Project](/pages/assignments/book-project) | Prompt | Wednesday, March 11 |
-| | Proposal | Wednesday, April 2 |
+| [Final Book Project](/pages/assignments/book-project) | Proposal | Wednesday, April 2 |
 | | Prototype | Friday, April 17 |
 | | Final Book | Monday, May 4 | 
 | Final Self Assessment | | Tuesday, May 12 |
