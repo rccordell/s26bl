@@ -23,6 +23,10 @@ layout: post
 + Jillian M. Hess, "Anatomy of the Commonplace" in _How Romantics and Victorians Organized Information: Commonplace Books, Scrapbooks, and Albums_ (2022), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.1093/oso/9780192895318.003.0002)
 + Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
 
+## February 17, 1-2pm: "Media Necromancy" talk (optional)
+
+"'As Usual You Have Produced Yet Another Installment Worthy of Archiving': The Persistence of Obsolescence in Queer Information & Media Technologies" talk by Travis Wagner, Assistant Professor, School of Information Sciences @ Skeuomorph Press, ["Media Necromancy" speaker series](https://skeuomorph.ischool.illinois.edu/our-research/media-necromancy/)
+
 
 ## February 20: Printing Lab
 
