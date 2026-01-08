@@ -5,11 +5,8 @@ title: Assignments & Assessment
 
 ## Assignments
 
-Your work in BookLab will unfold through these major assignments:
-
-
 | Assignment | Milestone | Due Date | 
-| :---- | :--------- | -----: |
+| :------- | :--------- | -----: |
 | [Commonplace Book](/pages/assignments/commonplace-book/) | ——— | Weekly |
 |  [Lab Reports](/pages/assignments/lab-reports/) | At least 3 complete | Fri, March 13 |
 |   | All 5 complete | Fri, May 1 |
