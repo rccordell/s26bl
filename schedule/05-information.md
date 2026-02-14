@@ -10,7 +10,7 @@ layout: post
 
 + James Gleick, "Two Wordbooks" from _The Information: A History, A Theory, a Flood_ (2011), [resource via library](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=761460&site=ehost-live&scope=site&ebv=EK&ppid=Page-__-35)
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external website](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
-+ Sarah Bull, “Content Generation in the Age of Mechanical Reproduction” (2023), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11091850)
++ Sarah Bull, “Content Generation in the Age of Mechanical Reproduction” (2023), [resource via library](https://www.proquest.com/scholarly-journals/content-generation-age-mechanical-reproduction/docview/2895605645/se-2?accountid=14553)
 + Ryan Cordell, "Viral Textuality" from _Going the Rounds: Virality in Nineteenth-Century American Newspapers_ (2023), [external website](https://manifold.umn.edu/projects/going-the-rounds)
 
 ### Penumbra
