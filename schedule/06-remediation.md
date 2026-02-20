@@ -4,7 +4,7 @@ permalink: /schedule/06-remediation/
 layout: post
 ---
 
-## March 2: Discussion
+## February 23: Discussion
 
 ### Core
 
@@ -26,6 +26,6 @@ layout: post
 
 + Amanda Wyatt Visconti, "Look!! Here's your unusual letterpress blocks invitation to joy: a collage mini-zine" (2024), [external website](https://amandavisconti.github.io/zinebakery//homemade-zines/hand-pie-1-weirdletterpressblocks)
 
-## March 6: Zines Lab
+## February 27: Zines Lab
 
 _Lab Prep_: If there are any materials you'd like to include in your zine page, bring them with you. These might be magazines/newspapers/other print materials for cut-up/remediation, writing, art, etc.
