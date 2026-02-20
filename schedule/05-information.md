@@ -31,3 +31,5 @@ layout: post
 ## February 20: Printing Lab
 
 _Lab Prep_: Our print labs will involve potential messes of several kinds, including ink, oils and solvents, and simple dirt. We do have protective gear such as aprons and gloves, but even so I would not recommend wearing your best linen suit for these two weeks' labs; please wear something that you won't mind getting dirty.
+
+We will be dividing into several groups for this lab. While some students are printing, others will be completing [this activity about imposition](https://s26bl.ryancordell.org/lab/2026/02/20/Imposition.html).
