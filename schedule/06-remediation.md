@@ -8,7 +8,7 @@ layout: post
 
 ### Core
 
-+ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [file on Canvas](https://canvas.illinois.edu/files/16004116/download?download_frd=1)
++ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [resource via library](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctv11smg09.8)
 + Zine Librarians' Code of Ethics (2015), [external website](https://www.zinelibraries.info/code-of-ethics/), and also browse the [_Queer Zine Archive Project_ blog](https://gittings.qzap.org/) and its [zine archive](https://archive.qzap.org/)
 + Jolie Braun, "'Your Zine Changed My Life': The Impact and Legacy of Zines in Sassy Magazine" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/773269)
 
