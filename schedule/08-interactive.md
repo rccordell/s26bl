@@ -24,4 +24,4 @@ layout: post
 
 ### Book Lab: Thoroughly Entwined
 
-[Additional resources and tutorials for the binding lab can be found here](https://s25bl.ryancordell.org/lab/2025/04/06/ThoroughlyEntwined.html).
+[Additional resources and tutorials for the binding lab can be found here](https://s26bl.ryancordell.org/lab/2026/03/13/ThoroughlyEntwined.html).

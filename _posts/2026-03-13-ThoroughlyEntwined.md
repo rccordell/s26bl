@@ -1,5 +1,5 @@
 ---
-title: "Lab 10: Thoroughly Entwined"
+title: "Lab: Thoroughly Entwined"
 author: Ryan Cordell
 category: lab
 layout: post
