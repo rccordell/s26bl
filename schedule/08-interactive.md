@@ -22,6 +22,6 @@ layout: post
 + Dennis Yi Tenen, "Reading Platforms: A Concise History of the Electronic Book" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-22)
 + Amanda Stuckey, "Access in Book History Methodology and Pedagogy: Report from the 'Touch to See' Workshop" (2022), [resource via library](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-85165165636&site=eds-live&scope=site)
 
-### Book Lab: Thoroughly Entwined
+### Book Lab: Twine
 
-[Additional resources and tutorials for the Twine lab can be found here](https://s26bl.ryancordell.org/lab/2026/03/13/ThoroughlyEntwined.html).
+[Additional resources and tutorials for the Twine lab can be found here](https://s26bl.ryancordell.org/lab/2026/03/13/TwineLab.html).
