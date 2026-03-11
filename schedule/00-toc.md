@@ -51,7 +51,6 @@ Friday, March 6: Artist's Books Lab #6 @ RBML
 Monday, March 9: Discussion
 
 Friday, March 13 - Twine Lab #7
-_Note: Prof. Cordell AWAY; lab will be remote/asychronous_
 
 # SPRING BREAK
 
