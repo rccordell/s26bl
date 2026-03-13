@@ -24,4 +24,4 @@ layout: post
 
 ### Book Lab: Twine
 
-[Additional resources and tutorials for the Twine lab can be found here](https://s26bl.ryancordell.org/lab/2026/03/13/TwineLab.html).
+[Additional resources and tutorials for the Twine lab can be found here](https://s26bl.ryancordell.org/lab/2026/03/12/TwineLab.html).
