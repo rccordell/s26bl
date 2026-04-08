@@ -8,7 +8,7 @@ title: Book Reports
 + Students will work individually
 + Submitted for 5/11 labs in the class
 + ~500-750 words apiece
-+ [Submitted via Canvas]()
++ Submitted via Canvas
 + Due within 7 days of the given lab
 
 ## Assignment Details
@@ -24,5 +24,5 @@ These reports are short, and you should not strive to write full-fledged academi
 3. How did the lab _complicate_ the readings? What new questions or uncertainties did our hands-on activities raise that did not occur to you from the readings?
 4. How did the lab _extend_ your thinking about the book as a material or intellectual artifact?
 
-You should not spend words summarizing readings or recounting discussions from class at length, but instead choose specific, salient details that help you answer those questions and illustrate your own ideas. You might cite a specific idea raised by one of your colleagues as evidence, and you absolutely should quote and cite specific insights from our readings. You certainly may also œœconnect some of our readings, activities, and course themes to texts and ideas you encounter in other classes and contexts.
+You should not spend words summarizing readings or recounting discussions from class at length, but instead choose specific, salient details that help you answer those questions and illustrate your own ideas. You might cite a specific idea raised by one of your colleagues as evidence, and you absolutely should quote and cite specific insights from our readings. You certainly may also connect some of our readings, activities, and course themes to texts and ideas you encounter in other classes and contexts.
 
